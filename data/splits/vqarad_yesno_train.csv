@@ -1,0 +1,837 @@
+qa_id,image_id,image_path,question,label
+0,synpic54610.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic54610.jpg,Are regions of the brain infarcted?,1
+6,synpic28602.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic28602.jpg,Is the trachea midline?,1
+7,synpic28602.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic28602.jpg,Is there evidence of an aortic aneurysm?,0
+9,synpic28602.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic28602.jpg,Is there blunting of the costovertebral angles?,0
+10,synpic42202.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42202.jpg,Is there evidence of an aortic aneurysm?,1
+13,synpic54610.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic54610.jpg,Is this an axial plane?,1
+15,synpic42202.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42202.jpg,Is there a pneumothorax?,0
+21,synpic54610.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic54610.jpg,Is there vascular pathology in this image?,1
+22,synpic28602.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic28602.jpg,Is this an anterior posterior image?,0
+23,synpic42202.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42202.jpg,Is there cardiomyopathy?,1
+28,synpic42202.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42202.jpg,Is this an anterior-posterior image,0
+31,synpic21776.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21776.jpg,Are >12 ribs present in the image?,1
+32,synpic21776.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21776.jpg,does this represent adequate inspiratory effort?,1
+33,synpic25821.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25821.jpg,Is there a rib fracture?,0
+34,synpic25821.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25821.jpg,Is there evidence of any fractures of the ribs?,0
+35,synpic25821.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25821.jpg,Is there any intraparenchymal abnormalities in the lung fields?,0
+36,synpic25821.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25821.jpg,Is there evidence of any abnormalities of the lung parenchyma?,0
+37,synpic26158.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic26158.jpg,was the arterial contrast phase selected?,1
+38,synpic26158.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic26158.jpg,does this plane of section include the gastric cardia?,1
+39,synpic34515.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic34515.jpg,Is there evidence of small bowel obstruction on this image?,1
+40,synpic34515.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic34515.jpg,Is there small bowel thickening present?,1
+41,synpic40272.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40272.jpg,was the patient positioned appropriately 	without tilting?,1
+42,synpic21776.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21776.jpg,was this taken with good x ray penetration,1
+43,synpic34713.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic34713.jpg,Are the common ileac arteries and veins patent in this section?,1
+44,synpic34713.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic34713.jpg,Are the common iliac vasculature open?,1
+45,synpic19605.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19605.jpg,Is the spleen normal size?,1
+46,synpic19605.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19605.jpg,Is the size of the spleen normal?,1
+47,synpic39086.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39086.jpg,Are there air fluid levels present in the small bowel?,1
+48,synpic39086.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39086.jpg,is there contrast material showing air-fluid levels in the small bowel,1
+52,synpic50962.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic50962.jpg,Are brain structures shifted across the midline?,0
+53,synpic50962.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic50962.jpg,is there a midline shift of the cerebral parenchyma?,0
+54,synpic22967.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic22967.jpg,Is the gallbladder large in size?,0
+55,synpic22967.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic22967.jpg,Is the gallbladder distended?,0
+56,synpic25821.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25821.jpg,Are there >8 ribs shown in this image?,1
+57,synpic25821.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25821.jpg,Are there at least 8 ribs visible for good inspiratory effort?,1
+59,synpic50962.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic50962.jpg,Is this a transverse section?,1
+60,synpic34515.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic34515.jpg,Is the patient's vertebral body indicative of normal aging?,1
+61,synpic34515.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic34515.jpg,any observed degenerative changes in the vertebral body?,0
+62,synpic25534.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25534.jpg,is the small bowel appropriately identified with GI contrast?,1
+63,synpic25534.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25534.jpg,Is there a small bowel obstruction?,1
+66,synpic39088.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39088.jpg,Are there air-fluid levels present on this CT radiograph?,1
+67,synpic39088.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39088.jpg,Is there evidence of air fluid levels in the patient's bowel?,1
+70,synpic21776.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21776.jpg,was this taken in PA position?,1
+71,synpic34713.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic34713.jpg,Is there evidence of air in the peritoneum?,1
+72,synpic34713.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic34713.jpg,Is there air in the peritoneal cavity?,1
+73,synpic42245.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42245.jpg,Are the hilar soft tissue densities symmetric?,0
+74,synpic42245.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42245.jpg,Are the soft tissue densities in the left hilum equivalent in size to the soft tissue densities in the right hilum?,0
+75,synpic16174.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16174.jpg,Is the descending aortic silhouette of normal contour?,1
+76,synpic16174.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16174.jpg,Is the descending aortic silhouette of normal contour and size?,1
+77,synpic16174.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16174.jpg,Is there tortuosity of the descending aorta?,1
+78,synpic16174.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16174.jpg,Is the descending aortic silhouette of normal size?,1
+82,synpic39086.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39086.jpg,Are there hyper attenuating material along the aortic walls?,1
+83,synpic39086.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39086.jpg,are there calcifications present on the abdominal aorta?,1
+84,synpic26925.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic26925.jpg,Is the vertebro-basilar arterial network viewed in this section?,1
+85,synpic26925.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic26925.jpg,Is the vertebral artery/basilar artery located in this image?,1
+88,synpic26158.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic26158.jpg,is there evidence of portal venous congestion?,0
+89,synpic26158.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic26158.jpg,Is the portal vein engorged?,0
+91,synpic19605.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19605.jpg,Is the liver parenchyma normal?,1
+92,synpic19605.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19605.jpg,Is the liver parenchyma homogenous?,1
+93,synpic19605.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19605.jpg,Is there no evidence of any hypo- or hyperattenuations located in the liver?,1
+94,synpic19605.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19605.jpg,Is the liver parenchyma homogenous and normal?,1
+95,synpic40272.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40272.jpg,was this chest x ray taken in PA format?,1
+98,synpic26158.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic26158.jpg,Is there evidence of ectopic tissue present in surrounding organs?,0
+99,synpic26158.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic26158.jpg,Is there evidence of metastatic tissue on organs surrounding the liver?,0
+100,synpic21776.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21776.jpg,Are lung opacities noted?,0
+101,synpic21776.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21776.jpg,is there evidence of intraparenchymal lung nodules?,0
+104,synpic16174.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16174.jpg,Is the cardiac silhouette less than half the diameter of the diaphragm?,1
+105,synpic16174.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16174.jpg,Is the cardiac silhouette within normal size limits?,1
+108,synpic52767.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic52767.jpg,Is there evidence of a right apical pneumothorax on this chest x-ray?,1
+109,synpic52767.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic52767.jpg,Is a pneumothorax present near the right lung field?,1
+112,synpic21776.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21776.jpg,Is there narrowing of the cardiac contour?,1
+113,synpic21776.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21776.jpg,is the cardiac silhouette small/stretched,1
+114,synpic42245.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42245.jpg,Are there any fractures in any of the ribs?,0
+115,synpic42245.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42245.jpg,Are any of the patient's ribs fractured?,0
+116,synpic40272.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40272.jpg,is there evidence of pulmonary edema?,0
+117,synpic40272.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40272.jpg,Is there enlargement of the pulmonary vasculature?,0
+120,synpic25534.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25534.jpg,Has the small bowel perforated?,0
+121,synpic25534.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25534.jpg,is there evidence of pneumoperitoneum?,1
+122,synpic39086.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39086.jpg,Is this the small bowel on this image?,1
+123,synpic52767.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic52767.jpg,Is the cardiac contour normal?,1
+124,synpic52767.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic52767.jpg,Is the cardiac silhouette less than half the lateral diameter of the chest wall?,1
+125,synpic34515.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic34515.jpg,Are feces located in the colon?,1
+126,synpic34515.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic34515.jpg,Is there stool in the colon?,1
+129,synpic50962.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic50962.jpg,Is this a T2 weighted image?,1
+130,synpic26925.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic26925.jpg,Is the lesion causing significant brainstem herniation?,0
+131,synpic26925.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic26925.jpg,Is there herniation of the brainstem secondary to the lesion,0
+132,synpic40272.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40272.jpg,is it difficult to delineate the left costophrenic angle?,1
+133,synpic40272.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40272.jpg,Is there blunting of the left costophrenic angle?,1
+134,synpic50962.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic50962.jpg,Are structures associated with the midbrain located in this image?,1
+135,synpic50962.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic50962.jpg,Is the midbrain identified in this section?,1
+138,synpic22967.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic22967.jpg,Are there more than 5 enlarged (>1 cm) lymph nodes around the stomach,1
+139,synpic22967.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic22967.jpg,Are there >5 lymph nodes located near the stomach?,1
+142,synpic39086.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39086.jpg,Is this image plane taken inferior to the liver?,1
+145,synpic25534.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25534.jpg,is there slight dilation of the right renal pelvis?,1
+146,synpic25534.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25534.jpg,Is there enlargement of the right renal pelvis?,1
+147,synpic39086.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39086.jpg,Is there evidence of a small bowel obstruction with perforated viscus on this CT?,1
+148,synpic39086.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39086.jpg,Is there evidence of a pneumoperitoneum secondary to a perforation?,1
+151,synpic26925.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic26925.jpg,Does the mass have a smooth appearing border?,1
+152,synpic26925.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic26925.jpg,Is the mass well-defined?,1
+153,synpic34713.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic34713.jpg,Is there contrast in the colonic lumen?,1
+154,synpic34713.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic34713.jpg,Was the patient given oral contrast?,1
+155,synpic19605.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19605.jpg,Is the celiac trunk visualized and patent?,1
+156,synpic19605.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19605.jpg,Is the celiac trunk visualized?,1
+157,synpic19605.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19605.jpg,Is the celiac trunk patent?,1
+158,synpic19605.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19605.jpg,Is the celiac trunk able to be visualized in this patient and is it open?,1
+159,synpic19605.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19605.jpg,Is the celiac trunk able to be visualized in this patient?,1
+160,synpic19605.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19605.jpg,Is the celiac trunk open?,1
+164,synpic39086.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39086.jpg,was this image taken with patient in symmetrical supine position?,1
+165,synpic40272.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40272.jpg,Is the left lung field more radioopaque than the right side?,1
+166,synpic40272.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40272.jpg,Is the left lung field more white?,1
+167,synpic50962.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic50962.jpg,Is this an image of the right and left temporal lobes?,1
+168,synpic26158.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic26158.jpg,Are the liver 	splee n	stomac h	and esophagus all visualized in this image?,1
+169,synpic39088.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39088.jpg,Does the GI contrast hi-light the small bowel?,1
+170,synpic39088.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39088.jpg,Is there oral contrast in the patient's small bowel?,1
+171,synpic39088.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39088.jpg,Is there enlargement of the abdominal aorta on this image?,0
+172,synpic39088.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39088.jpg,Is the abdominal aorta large in size?,0
+173,synpic42245.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42245.jpg,Are the costophrenic angles sharp?,1
+174,synpic42245.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42245.jpg,Is there no evidence of blunting of the costophrenic angles?,1
+175,synpic21776.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21776.jpg,is the lung parenchyma well visualized?,1
+178,synpic40272.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40272.jpg,are the heart and lungs displayed well in this film,1
+188,synpic21734.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21734.jpg,Is the mass loculated?,1
+189,synpic21734.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21734.jpg,Is there a loculated pancreatic mass?,1
+195,synpic32933.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32933.jpg,Is the left hemidiaphragm normal?,1
+201,synpic57368.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic57368.jpg,Are there abnormal findings on this image?,1
+202,synpic57368.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic57368.jpg,Is this brain scan normal?,0
+203,synpic46720.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46720.jpg,Is the brain tissue ischemic?,1
+204,synpic46720.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46720.jpg,Is there atrophy of the brain?,1
+208,synpic21734.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21734.jpg,Is there evidence of calcification in the mass?,1
+209,synpic21734.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21734.jpg,Is the mass calcified?,1
+232,synpic59356.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic59356.jpg,Is there an abnormal lesion?,1
+233,synpic59356.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic59356.jpg,Is there a mass?,1
+246,synpic23130.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23130.jpg,Is the liver normal?,0
+247,synpic23130.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23130.jpg,Is this a normal image?,0
+261,synpic57368.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic57368.jpg,Are the lesions ring-enhancing?,1
+281,synpic51709.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51709.jpg,Is there evidence of enhancement?,1
+282,synpic51709.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51709.jpg,Is the lesion enhancing?,1
+288,synpic28695.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic28695.jpg,Is the mass calcified?,1
+298,synpic32933.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32933.jpg,Is this a normal x ray?,0
+299,synpic32933.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32933.jpg,Is the right hemidiaphragm normal?,0
+300,synpic28695.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic28695.jpg,Is the mass homogeneous?,0
+305,synpic59356.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic59356.jpg,Does the mass affect neighboring structure?,1
+306,synpic59356.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic59356.jpg,Is there mass effect?,1
+313,synpic45115.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic45115.jpg,Is there fat stranding?,1
+314,synpic21044.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21044.jpg,Is the heart abnormal?,1
+315,synpic21044.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21044.jpg,Does the heart appear enlarged?,1
+318,synpic40314.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40314.jpg,Is the surrounding phlegmon normal?,0
+319,synpic40314.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40314.jpg,Is the fat surrounding the pancreas normal?,0
+325,synpic39532.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39532.jpg,Are lung markings present in the entire thoracic cavity?,1
+326,synpic39532.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39532.jpg,Is there a pneumothorax present?,0
+327,synpic17664.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic17664.jpg,Do the lung markings extend to the periphery?,1
+328,synpic17664.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic17664.jpg,Is a pneumothorax present in this image?,0
+329,synpic47783.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic47783.jpg,Does the width of the heart exceed more than half of the thorax?,0
+331,synpic31955.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31955.jpg,Is the diaphragm obscured?,0
+332,synpic31955.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31955.jpg,Is the diaphragm clearly visualized on both sides?,1
+348,synpic41050.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic41050.jpg,Is there evidence of periappendiceal fluid and fat stranding?,1
+350,synpic41050.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic41050.jpg,Is the appendix visualized with contrast?,0
+351,synpic41050.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic41050.jpg,Is there contrast in the appendix?,0
+353,synpic27985.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27985.jpg,Is there more than one intussusception present?,0
+354,synpic27985.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27985.jpg,Are any organs besides the intestines present in this image?,1
+358,synpic33689.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33689.jpg,Is this in the lumbar vertebral level?,1
+362,synpic39532.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39532.jpg,Is there more that one lesion present?,0
+363,synpic27601.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27601.jpg,Is the liver normal?,1
+364,synpic27601.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27601.jpg,Is a ring enhancing lesion present in the right lobe of the liver?,0
+370,synpic17664.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic17664.jpg,Is the diaphragm clearly visualized on both sides of the thorax?,1
+371,synpic17664.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic17664.jpg,Is the diaphragm obscured?,0
+376,synpic23803.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23803.jpg,Is there evidence of subdiaphragmatic free air on the left?,0
+377,synpic23803.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23803.jpg,Is the free air under the left hemidiaphragm pathologic?,0
+388,synpic34449.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic34449.jpg,Is this an AP image?,0
+389,synpic19782.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19782.jpg,Are calcified lesions present in the lung fields?,0
+390,synpic19782.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19782.jpg,Is there evidence of large calcified lesions in the lung fields?,0
+391,synpic24220.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24220.jpg,Is the gallbladder present?,1
+394,synpic19782.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19782.jpg,Is there free air in the supraclavicular fossae?,1
+396,synpic23053.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23053.jpg,Is the air under the left hemidiaphragm pathologic?,0
+397,synpic23053.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23053.jpg,Is there free air under the left diaphragm?,0
+419,synpic33689.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33689.jpg,Is the duodenum edematous?,1
+432,synpic47783.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic47783.jpg,Is there a mass in the right hilum?,0
+433,synpic47783.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic47783.jpg,Is there evidence of a mass lesion at the right hilum?,0
+441,synpic34449.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic34449.jpg,Is there subcutaneous air present in the right neck?,1
+443,synpic23053.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23053.jpg,Is the opacity near the left lung apex pathologic?,0
+451,synpic24220.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24220.jpg,Are the kidneys present in this image?,0
+465,synpic39240.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39240.jpg,Is the cerebellum visible?,0
+466,synpic50949.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic50949.jpg,Is this an axial image?,1
+467,synpic21902.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21902.jpg,Is the liver normal in size?,0
+468,synpic24319.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24319.jpg,Is the liver visible in the image?,0
+469,synpic53978.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53978.jpg,Is this an axial image?,1
+470,synpic31916.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31916.jpg,Is this film properly exposed?,1
+471,synpic60096.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic60096.jpg,Is it possible to see the cerebellum in this image?,0
+473,synpic24538.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24538.jpg,Is the heart dilated?,0
+476,synpic42182.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42182.jpg,Is the patient's kidney this large mass to the right?,1
+479,synpic52951.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic52951.jpg,Is there any shifting on the path of the trachea?,0
+480,synpic60096.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic60096.jpg,Is there swelling of the choroid fissure?,0
+481,synpic24538.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24538.jpg,Is there consolidation in the lungs?,0
+482,synpic39240.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39240.jpg,Is this a MRI image?,1
+483,synpic47737.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic47737.jpg,Is there swelling around the lesion?,0
+485,synpic34017.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic34017.jpg,Are the basal ganglia enlarged?,0
+486,synpic47356.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic47356.jpg,Is there any other alteration in the image?,0
+488,synpic53978.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53978.jpg,Is the medulla swollen?,1
+493,synpic41772.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic41772.jpg,Is the abdomen distended?,0
+496,synpic52951.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic52951.jpg,Is this a solitary nodule?,1
+499,synpic34017.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic34017.jpg,Is there any hemorrhage?,0
+500,synpic31916.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31916.jpg,Is the right lung normal in size?,0
+501,synpic41772.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic41772.jpg,Is there a cyst in the right kidney?,0
+503,synpic34017.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic34017.jpg,Is there involvement of the temporal lobes?,0
+505,synpic47737.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic47737.jpg,Are the brain gyri atrophied?,0
+506,synpic21410.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21410.jpg,Is there fluid in the anterior abdominal wall?,0
+507,synpic58261.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic58261.jpg,Are the lateral ventricles compressed?,1
+508,synpic39240.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39240.jpg,Is the anatomy of the brain gyri affected?,0
+511,synpic31916.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31916.jpg,Is the stomach dilated?,0
+514,synpic50949.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic50949.jpg,Is the right kidney at its normal height in the abdomen?,1
+515,synpic52951.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic52951.jpg,Is this an AP image?,0
+516,synpic60096.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic60096.jpg,Is this an infiltrating mass?,1
+518,synpic41772.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic41772.jpg,Is it contrast these hyperintensities in the intestines?,1
+521,synpic53978.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53978.jpg,Is there lesion to other structures besides the medulla?,0
+524,synpic50949.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic50949.jpg,Is there any lesion in the left kidney,0
+526,synpic50949.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic50949.jpg,Are the kidneys atrophied?,0
+529,synpic60096.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic60096.jpg,Is this a CT image?,0
+532,synpic47356.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic47356.jpg,Is there leakage of blood?,0
+533,synpic47737.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic47737.jpg,Is it possible to see the cerebellum?,0
+534,synpic53978.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53978.jpg,Is this a CT image?,0
+537,synpic42182.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42182.jpg,Is the left kidney affected?,0
+540,synpic39240.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39240.jpg,Are there fractures on the skull?,0
+541,synpic53978.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53978.jpg,Is there any lesion to bone structures?,0
+542,synpic33226.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33226.jpg,Is the heart a normal size?,1
+543,synpic33226.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33226.jpg,Is the heart size normal?,1
+550,synpic16810.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16810.jpg,Is this in the PA plane?,1
+553,synpic43648.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic43648.jpg,Can you see the esophagus in this image?,0
+554,synpic43648.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic43648.jpg,Is the esophagus visible?,0
+559,synpic33226.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33226.jpg,Can this image highlight bone fractures (if present)?,1
+560,synpic60423.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic60423.jpg,Can you appreciate a pleural effusion?,0
+561,synpic60423.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic60423.jpg,Is a pleural effusion present?,0
+562,synpic46943.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46943.jpg,Do you see a subdural hematoma?,0
+563,synpic46943.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46943.jpg,Is there a subdural hematoma?,0
+565,synpic60423.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic60423.jpg,Is the heart enlarged?,0
+566,synpic60423.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic60423.jpg,Is the heart size increased?,0
+567,synpic48749.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic48749.jpg,Is this a ring enhancing lesion?,0
+568,synpic48749.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic48749.jpg,Is there ring-enhancement?,0
+574,synpic16810.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16810.jpg,Is this modality safe for pregnant women?,0
+575,synpic27402.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27402.jpg,Is this image sufficient for a diagnosis?,0
+576,synpic27402.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27402.jpg,Is the image enough to diagnose?,0
+583,synpic16810.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16810.jpg,Do you see a pleural effusion?,0
+584,synpic16810.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16810.jpg,Is a pleural effusion present?,0
+585,synpic25758.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25758.jpg,Are sections of bowel recognizable?,1
+586,synpic33226.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33226.jpg,Is a pleural effusion present?,0
+587,synpic33226.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33226.jpg,Is there a pleural effusion?,0
+588,synpic31248.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31248.jpg,Is the heart size abnormal?,0
+589,synpic31248.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31248.jpg,Is the heart enlarged?,0
+593,synpic25758.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25758.jpg,Is the patient lying down?,1
+595,synpic16810.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16810.jpg,Can you evaluate the kidneys 	bladde r	or ureters in this image?,0
+596,synpic30215.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic30215.jpg,Are the kidneys normal?,1
+597,synpic30215.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic30215.jpg,Do the kidneys appear to be normal?,1
+598,synpic57935.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic57935.jpg,Are the lateral ventricles visible?,1
+599,synpic57935.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic57935.jpg,Can the lateral ventricles be seen?,1
+600,synpic46943.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46943.jpg,Can you appreciate a shift of the midline?,1
+601,synpic46943.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46943.jpg,Is there a midline shift?,1
+604,synpic60423.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic60423.jpg,Can you diagnose a pericardial effusion from this image?,0
+605,synpic60423.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic60423.jpg,Is this image sufficient to diagnose pericardial effusion?,0
+606,synpic46943.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46943.jpg,Can a diagnosis or impression be made in this plane?,1
+609,synpic25758.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25758.jpg,Would perform this same modality in a patient with AKI?,0
+610,synpic25758.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25758.jpg,Are abdominal fat pads prominently visualized?,0
+611,synpic25758.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25758.jpg,Can you see the abdominal fat pads?,0
+612,synpic28378.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic28378.jpg,Is there a pleural effusion present?,0
+613,synpic28378.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic28378.jpg,Is there a pleural effusion,0
+614,synpic27402.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27402.jpg,Did this patient sustain physical damage?,0
+615,synpic27402.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27402.jpg,Do you suspect a physical injury?,0
+616,synpic44865.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic44865.jpg,Can you see all of the ribs on the left side?,0
+617,synpic44865.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic44865.jpg,Can the left ribs be evaluated?,0
+618,synpic31248.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31248.jpg,Can you appreciate a pleural effusion anywhere?,0
+619,synpic31248.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31248.jpg,Is pleural effusion present?,0
+620,synpic30215.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic30215.jpg,Are adrenal glands present in this image?,0
+621,synpic30215.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic30215.jpg,Can you see the adrenals?,0
+622,synpic57935.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic57935.jpg,Did the problem originate in the brain?,0
+623,synpic57935.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic57935.jpg,Do you suspect a primary brain process?,0
+624,synpic32136.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32136.jpg,Is the vertebrae fractured?,0
+625,synpic32136.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32136.jpg,Is there a verterbral fracture?,0
+626,synpic25758.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25758.jpg,Can you evaluate a mediastinum in the shown image?,0
+627,synpic25758.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25758.jpg,Is the mediastinum visualized?,0
+628,synpic33226.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33226.jpg,Does the left humerus appear to be fractured?,0
+629,synpic33226.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33226.jpg,Is there a fracture of the left humerus?,0
+630,synpic43648.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic43648.jpg,Can this plane detect an aortic aneurysm 	if present?,1
+631,synpic47196.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic47196.jpg,Can a diagnosis of appendicitis be made from this image?,0
+632,synpic47196.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic47196.jpg,Is this confirmed appendicitis?,0
+633,synpic33226.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33226.jpg,Are both lungs abnormally inflated?,0
+636,synpic44865.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic44865.jpg,Can a pleural effusion be appreciated on the right side?,0
+637,synpic44865.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic44865.jpg,Is there a right-sided pleural effusion?,0
+640,synpic46943.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46943.jpg,Does the skull appear fractured?,0
+641,synpic46943.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46943.jpg,Is there a skull fracture?,0
+648,synpic32962.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32962.jpg,Do you see hylar lymphadenopathy in this image?,1
+649,synpic32962.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32962.jpg,is there hylar lymphadenopathy?,1
+650,synpic32962.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32962.jpg,Is there a widened mediastinum?,1
+651,synpic32962.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32962.jpg,Is the mediastinum wider than normal?,1
+652,synpic18651.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic18651.jpg,Does this image show heart failure?,1
+653,synpic18651.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic18651.jpg,is this heart failure,1
+654,synpic18651.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic18651.jpg,is the heart enlarged?,1
+655,synpic18651.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic18651.jpg,Is there cardiomegaly?,1
+656,synpic46976.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46976.jpg,is the heart enlarged?,1
+657,synpic46976.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46976.jpg,Is there cardiomegaly?,1
+658,synpic32962.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32962.jpg,Is this coronal plane?,1
+659,synpic51926.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51926.jpg,is the stomach wall thickened?,1
+660,synpic51926.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51926.jpg,Is there thickening of the gastric wall?,1
+664,synpic46539.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46539.jpg,Is there fluid in the lung?,1
+665,synpic46539.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46539.jpg,Is this a pleural effusion,1
+668,synpic51872.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51872.jpg,Is there a lung mass?,1
+669,synpic51872.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51872.jpg,Is there a mass in the lung?,1
+676,synpic24424.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24424.jpg,is the peritoneum thickened?,1
+677,synpic24424.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24424.jpg,Is there thickening of the peritoneum?,1
+679,synpic40596.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40596.jpg,Is this mass located in the liver?,1
+680,synpic40596.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40596.jpg,Is this a hepatic mass?,1
+685,synpic31259.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31259.jpg,is there a mass,1
+686,synpic31259.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31259.jpg,Is a mass present in this xray?,1
+689,synpic23989.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23989.jpg,does this constitute a pulmonary pathology?,1
+691,synpic56388.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic56388.jpg,Are the sulci blunted?,1
+692,synpic56388.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic56388.jpg,Is there blunting of the sulci?,1
+693,synpic27597.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27597.jpg,is the mass cystic?,1
+694,synpic27597.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27597.jpg,Would you describe the mass as cystic?,1
+697,synpic46539.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46539.jpg,Is this lesion loculated,0
+698,synpic46539.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46539.jpg,Is there loculation of this lesion?,0
+699,synpic22037.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic22037.jpg,Is this a standing CXR,0
+703,synpic23989.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23989.jpg,is this an AP CXR,1
+707,synpic56388.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic56388.jpg,is there brain edema,1
+708,synpic56388.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic56388.jpg,Is the brain swollen?,1
+709,synpic22037.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic22037.jpg,is the pulmonary system shown?,1
+712,synpic40596.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40596.jpg,Is the structure cystic?,1
+713,synpic40596.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40596.jpg,Is the mass a cyst?,1
+714,synpic27597.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27597.jpg,Do the masses contain calcification?,1
+715,synpic27597.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27597.jpg,is there calcification,1
+719,synpic21700.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21700.jpg,is the stomach filled?,1
+720,synpic21700.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21700.jpg,Is there gastric fullness?,1
+725,synpic40596.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40596.jpg,is the renal system dilated?,1
+726,synpic40596.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40596.jpg,Is there hydronephrosis?,1
+727,synpic46976.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46976.jpg,are there increased vascular markings,1
+728,synpic46976.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46976.jpg,Are the vascular markings increased?,1
+733,synpic27597.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27597.jpg,Can you appreciate a mass in this image?,1
+734,synpic27597.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27597.jpg,is there a mass demonstrated?,1
+736,synpic32962.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32962.jpg,Doe this image depict an interstitial lung process?,1
+737,synpic32962.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32962.jpg,Is there an interstitial lung process?,1
+752,synpic21700.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21700.jpg,Can you appreciate inflammation?,1
+753,synpic21700.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21700.jpg,is there inflammation?,1
+754,synpic22037.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic22037.jpg,Is the chest xray underexposed?,1
+755,synpic22037.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic22037.jpg,Is this image underexposed?,1
+756,synpic56388.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic56388.jpg,Can you appreciate hemorrhage in this image?,1
+757,synpic56388.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic56388.jpg,Is there hemorrhage,1
+764,synpic51872.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51872.jpg,Do you see a cavitary lesion in this chest xray?,1
+765,synpic51872.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51872.jpg,is there a cavitary lesion?,1
+767,synpic27047.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27047.jpg,Does this patient have cardiomegaly?,0
+769,synpic21042.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21042.jpg,Is this patient intubated?,0
+770,synpic20208.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic20208.jpg,Is there intraperitoneal hemorrhage present in this image?,1
+771,synpic31467.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31467.jpg,Can the kidneys be visualized in this CT scan?,1
+775,synpic21042.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21042.jpg,Is this a PA image?,1
+779,synpic100132.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic100132.jpg,Does this radiograph contain parts of the cardiovascular system?,1
+780,synpic55317.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic55317.jpg,Does this patient have a skull fracture?,0
+781,synpic53635.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53635.jpg,Does this image show a normal gallbladder?,0
+783,synpic100132.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic100132.jpg,Is the heart enlarged?,0
+785,synpic16520.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16520.jpg,Is there acute blood present on this head CT?,0
+790,synpic20208.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic20208.jpg,Is this an MRI?,0
+791,synpic28355.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic28355.jpg,Does this patient have a pneumothorax?,0
+792,synpic28355.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic28355.jpg,Does this xray show an intubated patient?,0
+793,synpic53635.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53635.jpg,Is this an axial image?,1
+795,synpic55317.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic55317.jpg,Does this image display the CNS?,1
+796,synpic31467.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31467.jpg,Is this CT scan enhanced by IV contrast?,1
+797,synpic21042.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21042.jpg,Does this image show a pneumothorax?,0
+799,synpic55317.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic55317.jpg,Does this image display hydrocephalus?,1
+804,synpic100132.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic100132.jpg,Is this a CT scan?,0
+807,synpic28355.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic28355.jpg,Is this xray suggestive of aortic dissection?,0
+808,synpic16170.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16170.jpg,Does this patient have any fractured ribs?,0
+809,synpic53635.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53635.jpg,Is there fat stranding shown in this image?,1
+814,synpic55317.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic55317.jpg,Is this an MRI?,1
+815,synpic31467.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31467.jpg,Is the width of the abdominal aorta within normal limits?,0
+826,synpic27047.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27047.jpg,Is there a clavicle fracture shown in this radiograph?,0
+833,synpic35155.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic35155.jpg,Is the appendix seen in this image ruptured?,0
+836,synpic48122.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic48122.jpg,Can you see intraperitoneal bleeding in this CT?,0
+839,synpic35155.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic35155.jpg,Is the appendix seen in this image inflamed?,1
+840,synpic38858.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic38858.jpg,Can the optic nerve be visualized in this MRI image?,1
+841,synpic20208.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic20208.jpg,Does this image display the contents of the abdomen?,1
+844,synpic21042.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21042.jpg,Does this image show a pleural effusion?,0
+847,synpic16170.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16170.jpg,Does this patient have pneumomediastinum?,0
+849,synpic35155.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic35155.jpg,Is this a coronal view?,0
+852,synpic19853.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19853.jpg,Are these normal kidney findings?,0
+861,synpic22156.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic22156.jpg,Is the Saggital plane?,0
+863,synpic17848.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic17848.jpg,Is there evidence of pneumothorax?,0
+864,synpic17848.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic17848.jpg,Is there a pneumothorax?,0
+867,synpic16407.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16407.jpg,Are the pulmonary arteries enlarged?,1
+868,synpic16407.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16407.jpg,Do the pulmonary arteries appear enlarged?,1
+872,synpic53033.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53033.jpg,Does the lesion appear to be wedge-shaped?,1
+873,synpic53033.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53033.jpg,Is the lesion wedge-shaped?,1
+879,synpic17848.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic17848.jpg,Are the findings normal?,0
+880,synpic17848.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic17848.jpg,Is this a normal image?,0
+883,synpic28180.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic28180.jpg,Is this normal gallbladder finding?,0
+884,synpic49862.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic49862.jpg,Does the lesion demonstrate ring enhancement?,1
+885,synpic49862.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic49862.jpg,Is this lesion ring enhancing?,1
+887,synpic53097.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53097.jpg,Is there evidence of calcification?,0
+888,synpic53097.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53097.jpg,Is the mass calcified?,0
+891,synpic28180.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic28180.jpg,Do you always recommend using both IV and oral contrast?,0
+892,synpic16407.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16407.jpg,Are the lungs hyperinflated?,1
+893,synpic16407.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16407.jpg,Do the lungs appear hyperinflated?,1
+898,synpic45914.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic45914.jpg,Do you see dependent layering in the occipital horns of the lateral ventricles?,1
+899,synpic45914.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic45914.jpg,Is there dependent layering in the occipital horns of the lateral ventricles?,1
+913,synpic53033.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53033.jpg,Is there an acute infarction?,1
+914,synpic53033.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53033.jpg,Is this consistent with an acute infarction?,1
+915,synpic19853.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19853.jpg,Is this a CT?,1
+932,synpic17848.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic17848.jpg,Is this image best taken on expiration?,0
+933,synpic59131.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic59131.jpg,Is this the axial plane?,1
+937,synpic57813.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic57813.jpg,Does the R vertebral artery appear normal?,0
+938,synpic57813.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic57813.jpg,Is the Right vertebral artery normal?,0
+944,synpic22097.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic22097.jpg,Do you see fluid in the left lung?,1
+945,synpic22097.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic22097.jpg,Is there fluid in the left lung?,1
+954,synpic45914.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic45914.jpg,Any evidence of epidural or subdural hematoma?,0
+955,synpic45914.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic45914.jpg,Are there epidural or subdural bleeds as well?,0
+956,synpic53097.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53097.jpg,Is there evidence of hemorrhage?,0
+957,synpic53097.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53097.jpg,Is the mass hemorrhagic?,0
+969,synpic60254.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic60254.jpg,Is the image above oriented in the axial plane?,1
+972,synpic32970.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32970.jpg,Are there any bone fractures present?,0
+973,synpic32970.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32970.jpg,Does the patient have any bone fractures?,0
+978,synpic27277.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27277.jpg,Are the patients' ribs symmetric on both sides?,0
+979,synpic27277.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27277.jpg,Is there symmetry of the patient's ribs on both sides?,0
+992,synpic31394.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31394.jpg,Is this image showing the chest?,1
+994,synpic17153.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic17153.jpg,Does this image show edema?,1
+995,synpic17153.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic17153.jpg,Is there edema?,1
+1001,synpic24248.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24248.jpg,Are the colon walls thickened?,1
+1002,synpic24248.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24248.jpg,Are the walls of the colon thickened?,1
+1011,synpic31394.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31394.jpg,Is the image an CT scan?,0
+1013,synpic30273.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic30273.jpg,Was contrast used to take this image?,1
+1014,synpic27576.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27576.jpg,Did the patient ingest contrast prior to taking this image?,1
+1015,synpic27576.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27576.jpg,Was contrast used in this image?,1
+1016,synpic27576.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27576.jpg,Evidence of hemorrhage in the kidneys?,0
+1017,synpic27576.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27576.jpg,Is there any hemorrhage seen within the kidneys?,0
+1020,synpic51426.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51426.jpg,Is this a T1 weighted MRI?,0
+1025,synpic17145.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic17145.jpg,Is there a pneumothorax seen in the above image?,0
+1026,synpic17145.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic17145.jpg,Is there a pneumothorax present?,0
+1036,synpic17153.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic17153.jpg,Does the image show midline shift?,1
+1037,synpic17153.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic17153.jpg,Is there midline shift?,1
+1040,synpic31394.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31394.jpg,Does the heart look enlarged?,0
+1041,synpic31394.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31394.jpg,Is the heart enlarged?,0
+1045,synpic42805.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42805.jpg,Is the heart larger than normal?,0
+1046,synpic42805.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42805.jpg,Is the heart enlarged?,0
+1049,synpic51426.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51426.jpg,Does this image show midline shift?,1
+1050,synpic51426.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51426.jpg,Is there midline shift in this image?,1
+1062,synpic17738.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic17738.jpg,Is the heart enlarged?,0
+1063,synpic17738.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic17738.jpg,Is the heart abnormally large?,0
+1071,synpic17738.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic17738.jpg,Is this a PA film?,1
+1074,synpic32970.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32970.jpg,Are there multiple lesions in the chest of the above patient?,0
+1075,synpic32970.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32970.jpg,Does this patient have multiple lesions in their chest?,0
+1080,synpic24248.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24248.jpg,Does the image show pericolonic fat stranding?,1
+1081,synpic24248.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24248.jpg,Is there pericolic fat stranding?,1
+1082,synpic51426.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51426.jpg,Is this an image of the brain?,1
+1090,synpic33481.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33481.jpg,Are the lesions only in one lobe?,0
+1091,synpic33481.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33481.jpg,Are the opacities confined to one lung lobe?,0
+1092,synpic29771.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic29771.jpg,Is the lesion in the image enhancing?,0
+1093,synpic29771.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic29771.jpg,Is the mass contrast-enhancing?,0
+1096,synpic46764.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46764.jpg,Is the cortex atrophied?,0
+1097,synpic46764.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46764.jpg,Is there cortical atrophy?,0
+1100,synpic47974.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic47974.jpg,Are these masses encompassing the aorta?,0
+1101,synpic47974.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic47974.jpg,Are the liver masses growing around the aorta?,0
+1102,synpic38069.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic38069.jpg,Are the ventricles enlarged?,1
+1103,synpic38069.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic38069.jpg,Is the size of the ventricle abnormal?,1
+1105,synpic33331.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33331.jpg,Is this a mid-sagittal film?,0
+1106,synpic33429.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33429.jpg,Is there free air under the diaphragm?,0
+1107,synpic33429.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33429.jpg,Is there air in the abdominal cavity?,0
+1108,synpic16221.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16221.jpg,Is this an axial image?,0
+1109,synpic38069.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic38069.jpg,Is a skull fracture present?,0
+1110,synpic38069.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic38069.jpg,Is the skull fractured?,0
+1119,synpic33302.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33302.jpg,Are there any consolidations present in the lungs?,0
+1120,synpic33302.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33302.jpg,Are there any pulmonary consolidations?,0
+1123,synpic29795.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic29795.jpg,Is the vertebrae fractured?,0
+1124,synpic29795.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic29795.jpg,Is there a vertebral fracture?,0
+1126,synpic33331.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33331.jpg,Is the heart shadow abnormally large?,0
+1127,synpic33331.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33331.jpg,Is the cardiac silhouette enlarged?,0
+1130,synpic45610.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic45610.jpg,Is the trachea normal?,0
+1131,synpic45610.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic45610.jpg,Is the trachea midline?,1
+1132,synpic16221.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16221.jpg,Is there pneumothorax?,0
+1134,synpic37275.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic37275.jpg,Is the pelvis of the left kidney dilated?,0
+1135,synpic37275.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic37275.jpg,Is the left renal pelvis dilated?,0
+1137,synpic29771.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic29771.jpg,Is the bowel perforated?,0
+1138,synpic29771.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic29771.jpg,Is there bowel perforation present?,0
+1139,synpic46764.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46764.jpg,Can the white and gray matter be differentiated?,1
+1140,synpic46764.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46764.jpg,Is there good gray-white matter differentiation?,1
+1141,synpic33429.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33429.jpg,Is there a pneumothorax present?,0
+1142,synpic33429.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33429.jpg,Is there free air in the thorax?,0
+1145,synpic33331.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33331.jpg,Are any of the ribs fractured?,0
+1146,synpic33331.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33331.jpg,Are there rib fractures present?,0
+1147,synpic33481.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33481.jpg,Does a blocked alveoli cause a V/Q mismatch?,1
+1150,synpic50958.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic50958.jpg,Can a mass in the pancreatic head cause a liver injury?,1
+1157,synpic37275.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic37275.jpg,Does the liver show an enhancing mass or lesion?,0
+1158,synpic37275.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic37275.jpg,Is there an enhancing lesion in the liver?,0
+1163,synpic29795.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic29795.jpg,Is the mass surrounding the aorta?,0
+1164,synpic29795.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic29795.jpg,Is the aorta encompassed by the mass?,0
+1170,synpic16221.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16221.jpg,Is the trachea deviated from midline?,0
+1171,synpic16221.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16221.jpg,Is there tracheal deviation?,0
+1180,synpic50958.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic50958.jpg,Is the pancreatic mass enhancing?,0
+1181,synpic50958.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic50958.jpg,Is the mass in the pancreas enhancing?,0
+1183,synpic50958.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic50958.jpg,Can CT be used to assess soft tissues?,1
+1184,synpic33481.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33481.jpg,Are the hemidiaphragms flattened?,0
+1185,synpic33481.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33481.jpg,Is the diaphragm flattened on either side,0
+1186,synpic29795.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic29795.jpg,Is the bowel perforated?,0
+1187,synpic29795.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic29795.jpg,Is there sign of perforated bowel?,0
+1190,synpic20626.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic20626.jpg,Are any fractures present?,0
+1191,synpic20626.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic20626.jpg,Is there a skull fracture?,0
+1192,synpic59935.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic59935.jpg,Is there a skull fracture present?,0
+1193,synpic59935.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic59935.jpg,Is the skull fractured?,0
+1194,synpic37275.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic37275.jpg,Is this a coronal section?,0
+1195,synpic29771.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic29771.jpg,Are there any skeletal joints in the CT?,0
+1197,synpic45610.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic45610.jpg,Is the cardiac silhouette enlarged?,0
+1198,synpic45610.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic45610.jpg,Is the heart size abnormal,0
+1203,synpic33481.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33481.jpg,Can a patient with a metal implant get a CXR?,1
+1204,synpic28569.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic28569.jpg,Does the right kidney show signs of hydronephrosis?,0
+1205,synpic28569.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic28569.jpg,Is the right kidney abnormal here?,0
+1208,synpic33481.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33481.jpg,Is the aorta abnormally wide?,0
+1209,synpic33481.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33481.jpg,Is the aortic knob widened?,0
+1214,synpic56116.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic56116.jpg,Are there skull fractures present?,0
+1215,synpic56116.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic56116.jpg,Is the skull fractured?,0
+1222,synpic57237.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic57237.jpg,Is the skull fractured?,0
+1223,synpic57237.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic57237.jpg,Is there a skull fracture?,0
+1226,synpic33302.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33302.jpg,Does this image show a pneumothorax?,0
+1227,synpic33302.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33302.jpg,Is there a pneumothorax present?,0
+1228,synpic26413.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic26413.jpg,Are the clavicles fractured?,0
+1229,synpic26413.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic26413.jpg,Is a clavicular fracture present?,0
+1230,synpic28569.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic28569.jpg,Is the liver lacerated?,0
+1231,synpic28569.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic28569.jpg,Is there damage to the liver?,0
+1236,synpic45610.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic45610.jpg,Are the hemidiaphragms flattened?,0
+1237,synpic45610.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic45610.jpg,Is the diaphragm flat on either side?,0
+1238,synpic40426.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40426.jpg,Is this in the coronal plane?,0
+1239,synpic27646.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27646.jpg,Is there lymphadenopathy?,0
+1240,synpic27646.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27646.jpg,Is lymphadenopathy present?,0
+1241,synpic53207.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53207.jpg,Are the ventricles unaltered?,0
+1242,synpic53207.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53207.jpg,Are the ventricles normal?,0
+1243,synpic55583.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic55583.jpg,Is there any abnormality in this image?,1
+1244,synpic55583.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic55583.jpg,Are there lesions in this image?,1
+1247,synpic31217.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31217.jpg,Is this an MRI?,0
+1252,synpic45364.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic45364.jpg,Is the mass heterogenous?,1
+1253,synpic45364.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic45364.jpg,Is the mass varied?,1
+1254,synpic55583.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic55583.jpg,Is there mass effect seen on this image?,1
+1255,synpic55583.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic55583.jpg,Is there bulging of structures in this image?,1
+1256,synpic27646.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27646.jpg,Are there clearly defined cardiac borders in this image?,1
+1266,synpic51212.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51212.jpg,Is there edema present near the lesion?,1
+1267,synpic51212.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51212.jpg,Is there fluid accumulation near the lesion?,1
+1268,synpic24878.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24878.jpg,Are there abnormal findings?,1
+1269,synpic24878.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24878.jpg,Is anything irregular in this image?,1
+1272,synpic31217.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31217.jpg,Is this an image of normal physiology?,0
+1273,synpic31217.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31217.jpg,Is this patient healthy?,0
+1279,synpic27646.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27646.jpg,Is there a localized mass?,0
+1280,synpic27646.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27646.jpg,Is there a focal mass present?,0
+1281,synpic18250.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic18250.jpg,Are the airway walls thickened in the bases?,1
+1282,synpic18250.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic18250.jpg,Is there increased airway wall thickening of the bilateral bases?,1
+1285,synpic31217.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31217.jpg,Are there abnormalities seen in the lungs?,1
+1290,synpic18250.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic18250.jpg,Are there abnormalities?,1
+1291,synpic18250.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic18250.jpg,Is anything wrong in this image?,1
+1305,synpic51212.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51212.jpg,Is this image in the transverse plane?,1
+1311,synpic55583.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic55583.jpg,Is the gyral enhancement?,1
+1321,synpic27646.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27646.jpg,Is this an MRI?,0
+1322,synpic40426.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40426.jpg,Is the mass heterogenous?,1
+1323,synpic40426.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40426.jpg,Is the mass heterogenous in consistency?,1
+1324,synpic45364.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic45364.jpg,Are there abnormal findings?,1
+1325,synpic45364.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic45364.jpg,Is anything not normal in the image?,1
+1326,synpic53207.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53207.jpg,Are there abnormalities with in the contrast between white and grey matter?,1
+1327,synpic53207.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53207.jpg,Is the gray-white matter junction altered?,1
+1332,synpic53207.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53207.jpg,Is the image in the axial plane?,1
+1337,synpic55583.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic55583.jpg,Is this a T1 weighted image?,0
+1338,synpic31757.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31757.jpg,Is the right renal vein visualized?,0
+1339,synpic31757.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31757.jpg,Is it possible to identify the right renal vein?,0
+1340,synpic25105.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25105.jpg,Are the kidneys visible in this image?,1
+1341,synpic22794.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic22794.jpg,Is air visible in the bowels?,1
+1342,synpic22794.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic22794.jpg,Is there air in the bowel?,1
+1354,synpic52988.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic52988.jpg,Is the heart enlarged?,1
+1355,synpic52988.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic52988.jpg,Is cardiomegaly present?,1
+1359,synpic24967.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24967.jpg,Are gallstones identifiable?,1
+1362,synpic28987.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic28987.jpg,Is there fluid in the lungs?,0
+1363,synpic28987.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic28987.jpg,Is a pleural effusion present?,0
+1364,synpic25105.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25105.jpg,Is this an axial cut?,1
+1371,synpic52988.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic52988.jpg,Are patchy infiltrates depicted?,1
+1372,synpic52988.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic52988.jpg,Are there patchy infiltrates present?,1
+1377,synpic23008.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23008.jpg,Is this an axial plane,1
+1388,synpic25105.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25105.jpg,Is there air in the bowel?,1
+1389,synpic25105.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25105.jpg,Is air present in the bowel?,1
+1398,synpic28987.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic28987.jpg,Is cardiomegaly shown?,1
+1399,synpic28987.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic28987.jpg,Is the heart enlarged?,1
+1405,synpic24967.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24967.jpg,Can you see kidneys in this image,1
+1411,synpic24967.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24967.jpg,Is there contrast in this image,1
+1412,synpic24967.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24967.jpg,Is pericholecystic inflammation present?,1
+1422,synpic23648.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23648.jpg,Is the liver cirrhotic?,1
+1428,synpic31757.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31757.jpg,Are the borders of the mass well-defined ?,0
+1429,synpic31757.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31757.jpg,Are the borders of the mass well-defined and is the interior of the mass homogenous?,0
+1430,synpic31757.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31757.jpg,is the interior of the mass homogenous?,0
+1431,synpic31757.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31757.jpg,Is the mass well circumscribed?,0
+1432,synpic31757.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31757.jpg,Is the mass homogenous?,0
+1433,synpic31757.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31757.jpg,Is the mass well circumscribed and homogenous?,0
+1441,synpic23648.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23648.jpg,Is this a CT image?,1
+1446,synpic33892.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33892.jpg,Are there multiple septations within the cyst?,1
+1447,synpic33892.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33892.jpg,Is the cyst complex?,1
+1451,synpic25105.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25105.jpg,Is there contrast in this image?,1
+1456,synpic24967.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24967.jpg,Is the right conal fascia inflammed?,1
+1457,synpic24967.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24967.jpg,Is inflammation present at the right conal fascia?,1
+1463,synpic25105.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25105.jpg,Are liver findings normal?,1
+1464,synpic25105.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25105.jpg,Does the liver look normal?,1
+1468,synpic23008.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23008.jpg,Is there air outside the bowel walls?,0
+1469,synpic23008.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23008.jpg,Is pneumoperitoneum evident?,0
+1470,synpic31248.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31248.jpg,Is there hilar adenopathy?,1
+1471,synpic52988.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic52988.jpg,Is the ET tube properly placed?,1
+1472,synpic32136.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32136.jpg,Is there perinephric fat stranding?,1
+1476,synpic15006.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic15006.jpg,Is there cardiomegaly?,1
+1479,synpic46062.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46062.jpg,Are the sulci visible in this image?,0
+1481,synpic17664.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic17664.jpg,Is the trachea midline?,1
+1483,synpic22967.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic22967.jpg,Was the patient given IV contrast?,1
+1484,synpic22967.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic22967.jpg,Is there contrast in the patient's vasculature?,1
+1487,synpic22874.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic22874.jpg,Is IV contrast used?,1
+1490,synpic42157.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42157.jpg,Is the sigmoid colon visualized at this axial section?,1
+1491,synpic33102.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33102.jpg,Is there a pneumothorax?,1
+1492,synpic46720.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46720.jpg,Is the abnormality hyper intense?,1
+1493,synpic42307.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42307.jpg,Is there ring-enhancement?,1
+1494,synpic45364.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic45364.jpg,Is there air in the lesion?,0
+1497,synpic40596.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40596.jpg,Is this a normal liver?,0
+1499,synpic34713.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic34713.jpg,Is there contrast in the patient's arteries and veins?,1
+1501,synpic9872.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic9872.jpg,Is there a shift of midline structures?,0
+1502,synpic38069.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic38069.jpg,Is the lesion hyperdense?,0
+1504,synpic47783.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic47783.jpg,Is the air under the diaphragm pathologic?,0
+1505,synpic47783.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic47783.jpg,Is there free air under the diaphragm?,0
+1507,synpic51872.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51872.jpg,Is this patient intubated?,0
+1509,synpic27601.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27601.jpg,Is the spleen present?,1
+1515,synpic22037.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic22037.jpg,Is there a rib fracture?,0
+1516,synpic52767.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic52767.jpg,Are there decreased lung markings in the right upper lung field?,1
+1517,synpic57368.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic57368.jpg,Is there an brain bleed?,0
+1524,synpic46943.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46943.jpg,Is the corpus callosum involved?,1
+1527,synpic46976.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46976.jpg,Is there pneumoperitoneum?,0
+1528,synpic34515.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic34515.jpg,Is there contrast in the patient's small bowel?,1
+1530,synpic48714.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic48714.jpg,Is there grey-white matter differentiation?,1
+1533,synpic19477.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19477.jpg,What do the two small hyperintensities indicate?,1
+1534,synpic42290.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42290.jpg,Is the abdominal aorta within normal size limits?,1
+1537,synpic21044.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic21044.jpg,Is there bilateral hilar enlargement?,1
+1540,synpic39141.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39141.jpg,Is there ectatic or aneurysmal enlargement of the abdominal aorta?,0
+1544,synpic24878.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24878.jpg,Can the patient's encephalon be seen in this image?,0
+1547,synpic19782.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19782.jpg,Are the clavicles fractured?,0
+1555,synpic23008.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23008.jpg,Is pneumo intestinalis present?,1
+1556,synpic19232.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19232.jpg,Is the heart enlarged?,1
+1558,synpic51212.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51212.jpg,Is there bleeding in the brain?,0
+1559,synpic100228.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic100228.jpg,Is there evidence of a pleural effusion?,0
+1561,synpic52248.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic52248.jpg,Is this image abnormal?,1
+1562,synpic59131.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic59131.jpg,Is there restricted diffusion?,0
+1567,synpic60703.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic60703.jpg,Are the lateral ventricles viewed in this section?,1
+1570,synpic24729.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24729.jpg,Is there evidence of free peritoneal fluid?,0
+1571,synpic40464.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40464.jpg,Is the liver abnormal?,0
+1574,synpic29795.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic29795.jpg,Is there bone in the top of the image?,0
+1576,synpic17693.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic17693.jpg,Is the image normal?,0
+1579,synpic40500.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40500.jpg,Is there blurring of the grey-white matter junction?,0
+1580,synpic33302.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33302.jpg,Is there a calcification on the upper left lobe?,0
+1581,synpic53033.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53033.jpg,Is this image abnormal?,1
+1584,synpic51926.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51926.jpg,Is there hydronephrosis in the patient's kidneys?,0
+1586,synpic49862.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic49862.jpg,Is this image abnormal?,1
+1588,synpic25105.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25105.jpg,Are the kidney present?,1
+1589,synpic31955.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31955.jpg,Are the clavicles broken?,0
+1591,synpic27646.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27646.jpg,Is there an air-fluid level?,0
+1592,synpic27402.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27402.jpg,IS there anything wrong with the lungs?,0
+1593,synpic23989.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23989.jpg,Is there a chest tube placed?,0
+1599,synpic53207.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53207.jpg,Are the ventricles smaller than normal?,1
+1600,synpic39088.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39088.jpg,Is there evidence of pneumoperitoneum?,1
+1601,synpic23648.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23648.jpg,Was contrast used?,1
+1607,synpic18651.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic18651.jpg,Is the heart greater than 50% of the chest diameter,1
+1608,synpic59356.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic59356.jpg,Is this image normal?,0
+1612,synpic18250.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic18250.jpg,Is there consolidation in the lungs?,0
+1614,synpic24967.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24967.jpg,Is the gallbladder wall thickened?,1
+1618,synpic29771.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic29771.jpg,Is there free air in the abdomen?,0
+1620,synpic48749.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic48749.jpg,Is there mass effect?,1
+1621,synpic31217.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31217.jpg,Is there a nodule in the left lung?,0
+1624,synpic25534.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25534.jpg,Was this patient given IV contrast?,1
+1626,synpic50958.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic50958.jpg,Are any intestinal abnormalities present?,0
+1627,synpic23803.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23803.jpg,Is there a pneumothorax present?,1
+1628,synpic16174.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16174.jpg,Are there EKG leads on this patient?,1
+1629,synpic26413.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic26413.jpg,Is the stomach visualized here?,0
+1630,synpic20626.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic20626.jpg,Is the lesion uniform in density?,0
+1632,synpic17848.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic17848.jpg,Are the nodules well circumscribed?,1
+1634,synpic23571.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23571.jpg,Is the appendix enlarged?,1
+1636,synpic23053.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23053.jpg,Are the ribs broken?,0
+1641,synpic32970.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32970.jpg,Is there air present under the diaphragm?,0
+1645,synpic45914.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic45914.jpg,Is there a blood clot?,1
+1649,synpic46764.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46764.jpg,Is the lesion ring enhancing?,1
+1650,synpic39532.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39532.jpg,Is there free air under the diaphragm?,0
+1651,synpic39086.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39086.jpg,Is this patient lying supine?,1
+1652,synpic42245.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42245.jpg,Is the cardiac contour normal in shape?,1
+1653,synpic40314.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40314.jpg,Is the pancreas edematous?,1
+1655,synpic34449.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic34449.jpg,Are there rib fractures present?,1
+1659,synpic58902.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic58902.jpg,Is there a shift of midline structures?,0
+1660,synpic54802.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic54802.jpg,Is the image normal?,0
+1663,synpic44865.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic44865.jpg,Is there a mediastinal shift?,1
+1665,synpic47196.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic47196.jpg,Is there fat stranding?,0
+1668,synpic42805.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42805.jpg,Is there abnormal air present under the diaphragm?,0
+1673,synpic43648.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic43648.jpg,Is the left kidney abnormal?,1
+1675,synpic31394.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31394.jpg,Is there a pneumothorax present?,0
+1677,synpic16810.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16810.jpg,Is there any adenopathy?,0
+1680,synpic53816.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53816.jpg,Is there evidence of grey matter edema?,1
+1682,synpic27597.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27597.jpg,Is there fat in these masses?,1
+1684,synpic46539.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic46539.jpg,Is there a fracture of the clavicle?,0
+1688,synpic28277.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic28277.jpg,Are the kidneys in this image abnormal?,1
+1689,synpic53097.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53097.jpg,Is the mass enhancing?,0
+1690,synpic59126.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic59126.jpg,Are the bronchial airways enlarged?,1
+1691,synpic47964.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic47964.jpg,Is there a shift of midline structures?,1
+1693,synpic40272.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40272.jpg,Does the patient have a central line placed?,1
+1698,synpic41119.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic41119.jpg,Are the findings normal?,1
+1700,synpic33429.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33429.jpg,Is the heart too big?,0
+1702,synpic56388.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic56388.jpg,Do the ventricles have blood in them?,1
+1704,synpic28180.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic28180.jpg,Are the cystic and common bile ducts dilated?,1
+1705,synpic26925.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic26925.jpg,Is the cerebellum in view?,1
+1708,synpic55583.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic55583.jpg,Is there cortical atrophy?,0
+1710,synpic47974.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic47974.jpg,Are the hepatic lesions ring enhancing?,0
+1713,synpic60423.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic60423.jpg,Anything abnormal in this image?,0
+1715,synpic22020.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic22020.jpg,Is the gall bladder enlarged?,0
+1716,synpic42951.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42951.jpg,Is there contrast used?,0
+1717,synpic25587.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25587.jpg,Is the right diaphragm visualized?,0
+1720,synpic44995.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic44995.jpg,Is there restricted diffusion?,0
+1721,synpic47020.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic47020.jpg,Is there mass effect?,0
+1722,synpic53228.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53228.jpg,Is there hilar lymphadenopathy?,0
+1723,synpic51774.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51774.jpg,Is a pneumothorax present?,1
+1726,synpic33226.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33226.jpg,Is the heart clearly visible?,0
+1728,synpic33892.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33892.jpg,Are calcifications present?,1
+1729,synpic32084.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32084.jpg,Is there evidence of rib fracture?,0
+1733,synpic19114.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19114.jpg,Are the findings normal?,0
+1735,synpic45610.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic45610.jpg,Are there rib fractures present?,0
+1742,synpic9872.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic9872.jpg,Are the ventricles larger than normal?,1
+1743,synpic9872.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic9872.jpg,Is there enlargement of the ventricles,1
+1744,synpic32084.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32084.jpg,Are there multiple circumferential opacities located throughout all lung fields?,1
+1745,synpic32084.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32084.jpg,Does this chest x-ray show signs of diffuse opacities in both right and left lung fields?,1
+1750,synpic40500.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40500.jpg,Is this image taken from the top slice of the brain?,0
+1751,synpic40500.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40500.jpg,Was this image taken from a superior-most section of the brain?,0
+1768,synpic53228.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53228.jpg,Is this patient rotated?,0
+1769,synpic53228.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53228.jpg,Was the patient positioned inappropriately?,0
+1771,synpic60703.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic60703.jpg,Is this MRI taken with FLAIR protocol?,1
+1772,synpic53816.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53816.jpg,Is this image of a saggital plane?,0
+1775,synpic32084.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32084.jpg,Is there right hemidiaphragm elevation?,1
+1776,synpic32084.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32084.jpg,Is the right hemidiaphragm higher than the left?,1
+1777,synpic42290.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42290.jpg,Is the jejunal wall enlarged?,1
+1778,synpic42290.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42290.jpg,Is there thickening of the jejunum,1
+1786,synpic59126.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic59126.jpg,Is the heart contour backwards?,1
+1787,synpic59126.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic59126.jpg,Is the heart contour a mirror image of normal?,1
+1795,synpic40500.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40500.jpg,Is this an axial view of the brain?,1
+1796,synpic58902.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic58902.jpg,Is this a saggital brain section?,0
+1797,synpic58902.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic58902.jpg,Is this a saggital view of the brain?,0
+1798,synpic39141.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39141.jpg,Does the liver contain at least one hypodensity?,1
+1799,synpic39141.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic39141.jpg,Is there a hypodensity located in the liver?,1
+1805,synpic42290.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42290.jpg,Are the kidneys hyper attenuated?,1
+1806,synpic42290.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42290.jpg,Do the kidneys show a high level of contrast enhancement?,1
+1807,synpic22020.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic22020.jpg,Are both kidneys in view?,1
+1808,synpic22020.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic22020.jpg,Are both kidneys visible?,1
+1813,synpic53228.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53228.jpg,Does the heart border appear normal?,1
+1814,synpic53228.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53228.jpg,Is there a normal contour of the heart?,1
+1818,synpic32084.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32084.jpg,Is the heart enlarged?,0
+1819,synpic32084.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32084.jpg,Is there evidence of cardiomegaly?,0
+1837,synpic22020.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic22020.jpg,Is there oral contrast located in the colon?,1
+1838,synpic22020.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic22020.jpg,Is there oral contrast in the colon?,1
+1847,synpic40500.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40500.jpg,Does the CSF have high signal intensity?,1
+1848,synpic40500.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic40500.jpg,Is there high signal intensity in the CSF?,1
+1857,synpic42290.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42290.jpg,Does this image use GI contrast?,1
+1858,synpic42290.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42290.jpg,Is this a contrast enhanced image?,1
+1863,synpic100228.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic100228.jpg,Is there cardiomegaly?,0
+1864,synpic100228.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic100228.jpg,Is the heart enlarged?,0
+1871,synpic48714.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic48714.jpg,Does this CT use IV contrast material?,0
+1877,synpic32084.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic32084.jpg,Is this a PA film?,1
+1880,synpic27655.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27655.jpg,Is there any costophrenic angle blunting present?,0
+1881,synpic27655.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27655.jpg,Is there presence of any costophrenic angle blunting?,0
+1883,synpic33102.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33102.jpg,Do you see a pleural effusion?,0
+1884,synpic33102.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33102.jpg,Is there a pleural effusion present?,0
+1885,synpic60831.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic60831.jpg,Are the ventricles visualized in this image?,0
+1886,synpic60831.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic60831.jpg,Are you able to see the ventricles in this image?,0
+1900,synpic42951.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42951.jpg,Is this a noncontrast CT?,1
+1906,synpic53574.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53574.jpg,Are the sulci abnormal?,0
+1907,synpic53574.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53574.jpg,Do the sulci look abnormal in this image?,0
+1916,synpic15006.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic15006.jpg,Is there deviation in the trachea?,0
+1917,synpic15006.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic15006.jpg,Is there tracheal deviation?,0
+1936,synpic33102.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33102.jpg,Do you see cardiomegaly?,0
+1937,synpic33102.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33102.jpg,Is cardiomegaly present?,0
+1938,synpic26697.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic26697.jpg,Is this an axial plane image?,1
+1941,synpic33102.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33102.jpg,Is this a KUB film?,0
+1942,synpic42951.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic42951.jpg,Is a noncontrast CT the first imaging test for a suspected brain bleed?,1
+1944,synpic15006.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic15006.jpg,Is the heart size abnormal?,1
+1947,synpic25587.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25587.jpg,Is there any tracheal deviation present?,0
+1948,synpic25587.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25587.jpg,Is the trachea deviated in this image?,0
+1961,synpic15006.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic15006.jpg,Are there pleural effusions present?,0
+1962,synpic15006.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic15006.jpg,Is there presence of pleural effusions in this patient?,0
+1967,synpic47191.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic47191.jpg,Is this an MRI image?,0
+1970,synpic15006.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic15006.jpg,Is this film taken AP?,0
+1975,synpic33102.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33102.jpg,Is this a plain film xray?,1
+1976,synpic676.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic676.jpg,Are the costophrenic angles blunted?,0
+1977,synpic676.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic676.jpg,Is there any blunting of the costophrenic angle(s)?,0
+1986,synpic27655.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27655.jpg,Any tracheal deviation present?,0
+1987,synpic27655.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic27655.jpg,Is there any presence of tracheal deviation?,0
+1993,synpic47191.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic47191.jpg,Is the GI tract is highlighted by contrast?,1
+1994,synpic15006.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic15006.jpg,Is this a special kind of X-ray?,0
+1997,synpic676.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic676.jpg,Do you see cardiomegaly?,0
+1998,synpic676.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic676.jpg,Is there cardiomegaly present?,0
+2006,synpic16174.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16174.jpg,Is there evidence of left lung field hyperinflation?,1
+2007,synpic16174.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16174.jpg,Has the left lung collapsed?,1
+2008,synpic50962.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic50962.jpg,Is the grey/white matter border well differentiated?,1
+2009,synpic51212.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51212.jpg,Is there blurring of the grey-white matter junction?,0
+2012,synpic52767.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic52767.jpg,Is there evidence of mediastinal shift?,0
+2013,synpic52767.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic52767.jpg,Is there a midline shift?,0
+2016,synpic26158.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic26158.jpg,Is the mass compressing the inferior vena cava?,0
+2017,synpic26158.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic26158.jpg,Is the inferior vena cava compressed by the tumor?,0
+2034,synpic34836.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic34836.jpg,Are any ventricles visualized on this image?,1
+2035,synpic34836.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic34836.jpg,Can you see ventricles?,1
+2040,synpic33689.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33689.jpg,Are both kidneys visualized?,1
+2041,synpic33689.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33689.jpg,Can you see both kidneys in this image?,1
+2042,synpic33689.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33689.jpg,Is there evidence of calcification in the pancreas?,0
+2043,synpic33689.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic33689.jpg,Is the pancreas calcified?,0
+2060,synpic51774.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51774.jpg,Is the heart displaced?,0
+2061,synpic51774.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51774.jpg,Is the heart in the wrong position?,0
+2068,synpic31248.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31248.jpg,Is there hyperinflation of the lung(s)?,0
+2069,synpic31248.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic31248.jpg,Are the lungs increased in size?,0
+2070,synpic30215.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic30215.jpg,Is there an aortic aneurysm?,0
+2071,synpic30215.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic30215.jpg,Can an aortic aneurysm be appreciated?,0
+2078,synpic16810.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16810.jpg,Is there a midline shift?,0
+2079,synpic16810.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic16810.jpg,Is the trachea shifted?,0
+2084,synpic25758.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25758.jpg,Is the vertebra fractured?,0
+2085,synpic25758.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic25758.jpg,Is there a vertebral fracture?,0
+2098,synpic44995.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic44995.jpg,Is this a vascular lesion,1
+2099,synpic44995.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic44995.jpg,Does this lesion involve the vascular system?,1
+2108,synpic23989.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23989.jpg,Is this a tension pneumothorax?,0
+2109,synpic23989.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23989.jpg,Does this image show a tension pneumothorax?,0
+2114,synpic51926.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51926.jpg,Is there a pancreatic pseudocsyst?,0
+2115,synpic51926.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic51926.jpg,Is there a pseudocyst in the pancreas?,0
+2116,synpic23989.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23989.jpg,is there tracheal deviation?,0
+2117,synpic23989.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23989.jpg,Is the trachea deviated?,0
+2144,synpic59131.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic59131.jpg,Do the two findings have the same etiology?,1
+2145,synpic59131.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic59131.jpg,Is there a unified process?,0
+2148,synpic19114.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19114.jpg,Are there any abnormalities with the shape of the aortic arch?,0
+2149,synpic19114.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19114.jpg,Is the aortic arch shape abnormal?,0
+2176,synpic24248.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24248.jpg,Does the patient have ascites?,1
+2177,synpic24248.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic24248.jpg,Is there ascites present?,1
+2184,synpic56116.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic56116.jpg,Is the occipital lobe visible in this image?,0
+2185,synpic56116.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic56116.jpg,Is the occipital lobe present?,0
+2186,synpic57237.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic57237.jpg,Is there infiltrate in the sinuses?,0
+2187,synpic57237.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic57237.jpg,Are the sinuses abnormal?,0
+2196,synpic57237.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic57237.jpg,Is cerebral cortex present in this image?,0
+2197,synpic57237.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic57237.jpg,Can the cerebral cortex be visualized at this level?,0
+2210,synpic19232.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19232.jpg,Are the lungs clear?,0
+2211,synpic19232.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic19232.jpg,Are there lungs free of consolidation?,1
+2212,synpic23008.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23008.jpg,Is there fat stranding?,0
+2213,synpic23008.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23008.jpg,Is fat stranding present?,0
+2224,synpic23008.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23008.jpg,Is the bowel distended?,0
+2225,synpic23008.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic23008.jpg,Is bowel distension present?,0
+2236,synpic53816.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53816.jpg,Is there a midline shift?,0
+2237,synpic53816.jpg,data/VQA_RAD/VQA_RAD_Image_Folder/synpic53816.jpg,Is there structural deviation from the midline?,0

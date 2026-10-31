@@ -1,0 +1,31 @@
+sample_id,image_path,label,Asymmetry,Pigment Network,Dots/Globules,Streaks,Regression Areas,Blue-Whitish Veil,Colors
+IMD009,data/PH2Dataset/PH2 Dataset images/IMD009/IMD009_Dermoscopic_Image/IMD009.bmp,0,0,T,A,A,A,A,3
+IMD010,data/PH2Dataset/PH2 Dataset images/IMD010/IMD010_Dermoscopic_Image/IMD010.bmp,0,0,T,A,A,A,A,3
+IMD019,data/PH2Dataset/PH2 Dataset images/IMD019/IMD019_Dermoscopic_Image/IMD019.bmp,1,0,AT,T,A,A,A,4
+IMD022,data/PH2Dataset/PH2 Dataset images/IMD022/IMD022_Dermoscopic_Image/IMD022.bmp,0,0,T,A,A,A,A,3
+IMD049,data/PH2Dataset/PH2 Dataset images/IMD049/IMD049_Dermoscopic_Image/IMD049.bmp,1,1,AT,A,A,A,P,4 5
+IMD065,data/PH2Dataset/PH2 Dataset images/IMD065/IMD065_Dermoscopic_Image/IMD065.bmp,2,2,AT,A,A,P,P,4 6
+IMD092,data/PH2Dataset/PH2 Dataset images/IMD092/IMD092_Dermoscopic_Image/IMD092.bmp,0,0,T,T,A,A,A,3 4
+IMD105,data/PH2Dataset/PH2 Dataset images/IMD105/IMD105_Dermoscopic_Image/IMD105.bmp,0,0,T,T,A,A,A,3 4
+IMD132,data/PH2Dataset/PH2 Dataset images/IMD132/IMD132_Dermoscopic_Image/IMD132.bmp,0,0,T,T,A,A,A,3 4
+IMD135,data/PH2Dataset/PH2 Dataset images/IMD135/IMD135_Dermoscopic_Image/IMD135.bmp,0,0,T,T,A,A,A,3 4
+IMD140,data/PH2Dataset/PH2 Dataset images/IMD140/IMD140_Dermoscopic_Image/IMD140.bmp,1,0,AT,A,P,A,A,4 6
+IMD146,data/PH2Dataset/PH2 Dataset images/IMD146/IMD146_Dermoscopic_Image/IMD146.bmp,0,1,T,A,P,A,A,2 3 4
+IMD149,data/PH2Dataset/PH2 Dataset images/IMD149/IMD149_Dermoscopic_Image/IMD149.bmp,1,0,AT,T,A,A,A,1 4 5
+IMD153,data/PH2Dataset/PH2 Dataset images/IMD153/IMD153_Dermoscopic_Image/IMD153.bmp,1,1,AT,A,A,A,A,1 3
+IMD154,data/PH2Dataset/PH2 Dataset images/IMD154/IMD154_Dermoscopic_Image/IMD154.bmp,1,0,AT,A,A,P,A,1 3
+IMD157,data/PH2Dataset/PH2 Dataset images/IMD157/IMD157_Dermoscopic_Image/IMD157.bmp,1,2,AT,A,A,A,A,3 5
+IMD159,data/PH2Dataset/PH2 Dataset images/IMD159/IMD159_Dermoscopic_Image/IMD159.bmp,0,0,T,T,A,A,A,3
+IMD240,data/PH2Dataset/PH2 Dataset images/IMD240/IMD240_Dermoscopic_Image/IMD240.bmp,2,2,AT,A,P,P,P,5 6
+IMD256,data/PH2Dataset/PH2 Dataset images/IMD256/IMD256_Dermoscopic_Image/IMD256.bmp,1,1,AT,A,P,A,A,4
+IMD280,data/PH2Dataset/PH2 Dataset images/IMD280/IMD280_Dermoscopic_Image/IMD280.bmp,1,1,AT,A,A,A,A,3 4
+IMD312,data/PH2Dataset/PH2 Dataset images/IMD312/IMD312_Dermoscopic_Image/IMD312.bmp,1,2,AT,A,A,A,A,3 4
+IMD356,data/PH2Dataset/PH2 Dataset images/IMD356/IMD356_Dermoscopic_Image/IMD356.bmp,1,0,AT,A,A,A,A,3 4
+IMD384,data/PH2Dataset/PH2 Dataset images/IMD384/IMD384_Dermoscopic_Image/IMD384.bmp,0,0,T,A,A,A,A,4
+IMD392,data/PH2Dataset/PH2 Dataset images/IMD392/IMD392_Dermoscopic_Image/IMD392.bmp,0,0,T,AT,A,A,A,4
+IMD393,data/PH2Dataset/PH2 Dataset images/IMD393/IMD393_Dermoscopic_Image/IMD393.bmp,1,0,AT,A,P,A,A,2 3
+IMD394,data/PH2Dataset/PH2 Dataset images/IMD394/IMD394_Dermoscopic_Image/IMD394.bmp,0,0,T,A,A,A,A,4
+IMD408,data/PH2Dataset/PH2 Dataset images/IMD408/IMD408_Dermoscopic_Image/IMD408.bmp,2,2,AT,AT,P,P,P,1 3 4 5 6
+IMD409,data/PH2Dataset/PH2 Dataset images/IMD409/IMD409_Dermoscopic_Image/IMD409.bmp,2,2,AT,A,P,P,P,1 3 4 5 6
+IMD420,data/PH2Dataset/PH2 Dataset images/IMD420/IMD420_Dermoscopic_Image/IMD420.bmp,2,2,AT,AT,P,P,P,1 3 4 5
+IMD426,data/PH2Dataset/PH2 Dataset images/IMD426/IMD426_Dermoscopic_Image/IMD426.bmp,2,2,AT,A,A,P,A,3 4
